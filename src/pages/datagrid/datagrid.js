@@ -46,7 +46,6 @@ export default function DataGridPage() {
         <Paging defaultPageSize={50} />
         <Pager showPageSizeSelector={true} showInfo={true} />
         <FilterRow visible={true} />
-
         <Column dataField={'Task_ID'} width={90} hidingPriority={2} />
         <Column
           dataField={'Task_Subject'}
