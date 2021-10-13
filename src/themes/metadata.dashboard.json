@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "key": "@base-accent",
+      "value": "#fdb400"
+    }
+  ],   
+  "dashboardItems": [  
+    { 
+      "key": "@dashboard-item-selected-bg", 
+      "value": "rgba(#fdb400, 0.2)" 
+    },
+    { 
+      "key": "@dashboard-item-hover-bg", 
+      "value": "rgba(#fdb400, 0.1)" 
+    } 
+  ],
+  "baseTheme": "generic.light",
+  "outputColorScheme": "light-yellow",
+  "makeSwatch": false,
+  "version": "19.1.5"
+}
